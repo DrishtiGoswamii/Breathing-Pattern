@@ -9,7 +9,7 @@ const LINKS = {
 const SOCIALS = [
   {
     label: "Email",
-    href: "mailto:harshitc153@gmail.com",
+    href: "mailto:drishtigoswami17977@gmail.com",
     icon: (
       <svg
         width="14"
@@ -28,7 +28,7 @@ const SOCIALS = [
   },
   {
     label: "Twitter",
-    href: "https://twitter.com/hritikgulia",
+    href: "https://x.com/DrishtiGoswk",
     icon: (
       <svg width="14" height="14" viewBox="0 0 14 14" fill="currentColor">
         <path d="M11.8 1H9.9L7 5.1 4.4 1H1l4.2 6L1 13h1.9l3.1-4.4L8.9 13H13L8.6 6.8 11.8 1z" />
@@ -37,7 +37,7 @@ const SOCIALS = [
   },
   {
     label: "LinkedIn",
-    href: "https://www.linkedin.com/in/harshit-chaudhary-992971286/",
+    href: "https://www.linkedin.com/in/drishtigoswami-992971286/",
     icon: (
       <svg width="14" height="14" viewBox="0 0 14 14" fill="currentColor">
         <path d="M1.5 4h2v8.5h-2zM2.5 3a1.25 1.25 0 110-2.5A1.25 1.25 0 012.5 3zM5.5 4h1.9v1.2h.1C7.8 4.5 8.8 4 9.9 4c2.1 0 2.6 1.4 2.6 3.2V12.5h-2V7.7c0-.7 0-1.7-1-1.7s-1.2.8-1.2 1.7v4.8h-2V4z" />
