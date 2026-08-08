@@ -37,7 +37,7 @@ const SOCIALS = [
   },
   {
     label: "LinkedIn",
-    href: "https://www.linkedin.com/in/drishtigoswami-992971286/",
+    href: "https://www.linkedin.com/in/drishtigoswami",
     icon: (
       <svg width="14" height="14" viewBox="0 0 14 14" fill="currentColor">
         <path d="M1.5 4h2v8.5h-2zM2.5 3a1.25 1.25 0 110-2.5A1.25 1.25 0 012.5 3zM5.5 4h1.9v1.2h.1C7.8 4.5 8.8 4 9.9 4c2.1 0 2.6 1.4 2.6 3.2V12.5h-2V7.7c0-.7 0-1.7-1-1.7s-1.2.8-1.2 1.7v4.8h-2V4z" />
